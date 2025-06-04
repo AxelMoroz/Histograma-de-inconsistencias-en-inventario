@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d725f56-6163-458c-81d2-6c9d87fdd7d6)![image](https://github.com/user-attachments/assets/649732d4-410c-4e92-b2eb-b50450ed2838)# Histograma-de-inconsistencias-en-inventario
+ Histograma-de-inconsistencias-en-inventario
 proyecto de ingenieria en donde se busca implementar una gestion integral en un inventario con inconsistencias
 Manejo en la cadena de suministros
 El manejo de la cadena de suministros es un tema clave en las empresas, la idea es aplicar un enfoque de sistemas totales al manejo de todo el flujo de información, materiales y servicios de los proveedores
